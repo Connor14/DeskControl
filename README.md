@@ -1,6 +1,8 @@
 # DeskControl
 Arduino controlled laptop cooling fans and desk lighting
 
+<img src="https://github.com/Connor14/DeskControl/raw/master/PCB/showcase_rgb.jpg" width="250" />
+
 See the project in action: https://imgur.com/gallery/r6DBH
 
 ### ArduinoController
